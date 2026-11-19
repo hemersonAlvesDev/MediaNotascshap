@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U1nz14KqNPc=",
+  "dgSpecHash": "c0Bld4nhSn0=",
   "success": true,
-  "projectFilePath": "c:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj",
+  "projectFilePath": "C:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wcc_devs\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\wcc_devs\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

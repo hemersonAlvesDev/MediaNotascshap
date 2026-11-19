@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj": {}
+    "C:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj": {}
   },
   "projects": {
     "C:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.App\\MediaNotas.App.csproj": {
@@ -70,14 +70,14 @@
         }
       }
     },
-    "c:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj": {
+    "C:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj",
+        "projectUniqueName": "C:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj",
         "projectName": "MediaNotas.Tests",
-        "projectPath": "c:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj",
+        "projectPath": "C:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\MediaNotas.Tests.csproj",
         "packagesPath": "C:\\Users\\wcc_devs\\.nuget\\packages\\",
-        "outputPath": "c:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\obj\\",
+        "outputPath": "C:\\senai_diversos\\AULACSHARP\\MediaNotas\\MediaNotas.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
